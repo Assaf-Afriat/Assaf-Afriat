@@ -1,6 +1,6 @@
 # Hey, I'm Assaf 👋
 
-Junior engineer focused on design verification — I like understanding
+Engineer focused on design verification — I like understanding
 how hardware is supposed to behave, then building the environment that
 proves it actually does.
 
@@ -23,7 +23,7 @@ not just hello-world examples. The `portfolio` repo is the best starting point.
 
 ## What I'm looking for
 
-A junior DV role where I can hit the ground running. I'm comfortable
+A DV role where I can hit the ground running. I'm comfortable
 with UVM methodology, I pick things up fast, and I'm genuinely interested
 in the work — not just looking for any job in the field.
 
